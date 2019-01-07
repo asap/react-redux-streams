@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "this is my stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is a totally different stream",
+      "id": 2
+    },
+    {
+      "title": "Alex's Stream?",
+      "description": "The best stream ever!",
+      "id": 3
+    },
+    {
+      "title": "Is this stream awesome?",
+      "description": "This stream is overrated.",
+      "id": 4
+    },
+    {
+      "title": "New Stream",
+      "description": "A wild stream appears!",
+      "id": 5
+    },
+    {
+      "title": "YAS!!!",
+      "description": "Yet Another Stream",
+      "userId": "111632777306287814783",
+      "id": 6
+    }
+  ]
+}
